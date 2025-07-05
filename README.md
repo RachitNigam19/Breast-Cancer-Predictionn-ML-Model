@@ -1,7 +1,6 @@
 # Breast-Cancer-Predictionn-ML-Model
 A machine Learning Model that can predict the type of the breast cancer by processing the input data given by the user
 
-Here's a README file for your GitHub repository:
 
 Breast Cancer Prediction Model
 This repository contains a machine learning model developed to predict the type of breast cancer based on input data, distinguishing between benign and malignant cases. The model leverages user-provided features to deliver fast and accurate predictions, assisting healthcare providers or researchers in preliminary screening and analysis.
