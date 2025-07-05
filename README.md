@@ -38,4 +38,5 @@ To run the model, the following Python libraries are required:
 pandas
 numpy
 scikit-learn
-also if dont wanna run on local machine you can use Google Colab OR 
+also if dont wanna run on local machine you can use Google Colab OR Jupyter Notebook
+
